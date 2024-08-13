@@ -1,4 +1,4 @@
-# PDF-Semantic-Search-Engine
+# PDF-Semantic-Search-Engine 
 A system that searches for any piece of text and returns which PDF document contains the most similar content. This involves reading PDFs, converting text to a searchable form, storing it efficiently, and then searching through it when needed.
 ## Organize Documents
 
